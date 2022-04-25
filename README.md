@@ -30,3 +30,7 @@ This project was part of the Big Data for Health Class CSE6250. It includes crea
 | Running the Baselines for Mortality and LOS prediction - GRU-D.ipynb                          | ~5-6hrs       | ~50GB                   | ~5GB                   |
 | Running the Baselines for Intervention Prediction - Mechanical Ventilation.ipynb              | ~5-6hrs       | ~50GB                   | ~5GB                   |
 | Running the Baselines for Intervention Prediction - Vasopressor.ipynb                         | ~5-6hrs       | ~50GB                   | ~5GB                   |
+
+* The final performance for the different tested algorithms is shown in the chart below
+![image](https://user-images.githubusercontent.com/7920085/165027182-09743c2e-4732-42b7-9b66-9c581e7fc935.png)
+
