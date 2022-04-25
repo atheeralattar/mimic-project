@@ -1,4 +1,4 @@
-# mimic-project
+# Physionet Data Extraction MIMIC_III Project
 This project was part of the Big Data for Health Class CSE6250. It includes creating a local repo of the MIMIC database in order to facilitate the process for the reserachers to perform the data extraction and prediction tasks. Throughout the process we had several roadblocks especially with allocating the resources whether for the extraction step or for the model prediction step, these roadblock and any remidies are summerized below:
 
 ![image](https://user-images.githubusercontent.com/7920085/165003835-2351cb3f-20cc-4b2d-a489-0a1ea4de076c.png)
